@@ -1,5 +1,16 @@
+
+
+
+
+
+
 <!-- Notice for idiots -->
 # NOTICE:
+
+Commands are yarn and yarn start
+
+
+
 
 You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
 
